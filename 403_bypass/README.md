@@ -12,44 +12,47 @@ There are many http methods like get, post, trace, options, delete and etc. you 
 
 By adding headers in your request. there are many headers that you can use:
 
-X-Custom-IP-Authorization:
-X-Custom-IP-Authorization + ..;:
-X-Original-URL:
-X-Rewrite-URL:
-X-Originating-IP:
-X-Forwarded-For:
-X-Remote-IP:
-X-Client-IP:
-X-Host:
-X-Forwarded-Host:
-Values you can use:
+X-Custom-IP-Authorization:</br>
+X-Custom-IP-Authorization + ..;:</br>
+X-Original-URL:</br>
+X-Rewrite-URL:</br>
+X-Originating-IP:</br>
+X-Forwarded-For:</br>
+X-Remote-IP:</br>
+X-Client-IP:</br>
+X-Host:</br>
+X-Forwarded-Host:</br>
 
-localhost
-localhost:443
-127.0.0.1
-127.0.0.1:80
-10.0.0.0
-192.168.1.1
+### Values you can use:</br>
+
+localhost</br>
+localhost:443</br>
+127.0.0.1</br>
+127.0.0.1:80</br>
+10.0.0.0</br>
+192.168.1.1</br>
 
 ## 3. Path manipulation
 
-file?:
-//file//
-file??:
-file//.//./
-file//:
-file%09
-file/./:
-file.html
-/%2e/file
-file..;:
-file.php
-file.json
-file.html
-Tools
+file?: </br>
+//file// </br>
+file??: </br>
+file//.//./ </br>
+file//: </br>
+file%09 </br>
+file/./: </br>
+file.html </br>
+/%2e/file </br>
+file..;: </br>
+file.php </br>
+file.json </br>
+file.html </br> 
+
+---
+## 4. Tools
 
 _If you don’t want to do manually there are so many tools also available that you can use some are:_
 
-https://github.com/iamj0ker/bypass-403
-https://github.com/Dheerajmadhukar/4-ZERO-3
+https://github.com/iamj0ker/bypass-403 </br>
+https://github.com/Dheerajmadhukar/4-ZERO-3 </br>
 https://github.com/lobuhi/byp4xx
