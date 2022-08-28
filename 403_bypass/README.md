@@ -1,4 +1,4 @@
-##1. Changing request method
+## 1. Changing request method
 
 There are many http methods like get, post, trace, options, delete and etc. you can Bypass 403 forbidden by changing http method. like:
 
@@ -8,7 +8,7 @@ There are many http methods like get, post, trace, options, delete and etc. you 
 
 →GET to OPTIONS
 
-##2. HTTP Headers
+## 2. HTTP Headers
 
 By adding headers in your request. there are many headers that you can use:
 
@@ -31,7 +31,7 @@ localhost:443
 10.0.0.0
 192.168.1.1
 
-##3. Path manipulation
+## 3. Path manipulation
 
 file?:
 //file//
